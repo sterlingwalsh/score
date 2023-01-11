@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9789f9ab.css","mappings":"AAAA,UAEI,aACA,QAAO,CAFP,WAEA","sources":["styles/index.scss"],"sourcesContent":["body, html{\r\n    width: 100vw;\r\n    height: 100vh;\r\n    margin: 0;\r\n}"],"names":[],"sourceRoot":""}
